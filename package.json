@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/node": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "core-js": "^3.35.1"
+  },
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "type": "module"
+}
